@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Workspace\\Web\\LetGoNow\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C7CD25A-EB2E-4034-9059-59E365139E69}|LetGoNow\\LetGoNow.csproj|d:\\workspace\\web\\letgonow\\letgonow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C7CD25A-EB2E-4034-9059-59E365139E69}|LetGoNow\\LetGoNow.csproj|solutionrelative:letgonow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C7CD25A-EB2E-4034-9059-59E365139E69}|LetGoNow\\LetGoNow.csproj|d:\\workspace\\web\\letgonow\\letgonow\\letgonow.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5C7CD25A-EB2E-4034-9059-59E365139E69}|LetGoNow\\LetGoNow.csproj|solutionrelative:letgonow\\letgonow.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Workspace\\Web\\LetGoNow\\LetGoNow\\Program.cs",
+              "RelativeDocumentMoniker": "LetGoNow\\Program.cs",
+              "ToolTip": "D:\\Workspace\\Web\\LetGoNow\\LetGoNow\\Program.cs",
+              "RelativeToolTip": "LetGoNow\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAUwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T02:12:09.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LetGoNow.csproj",
+              "DocumentMoniker": "D:\\Workspace\\Web\\LetGoNow\\LetGoNow\\LetGoNow.csproj",
+              "RelativeDocumentMoniker": "LetGoNow\\LetGoNow.csproj",
+              "ToolTip": "D:\\Workspace\\Web\\LetGoNow\\LetGoNow\\LetGoNow.csproj",
+              "RelativeToolTip": "LetGoNow\\LetGoNow.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-16T02:06:46.925Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
